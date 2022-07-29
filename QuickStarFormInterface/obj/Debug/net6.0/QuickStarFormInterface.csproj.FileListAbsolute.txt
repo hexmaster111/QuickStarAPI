@@ -1,0 +1,12 @@
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\bin\Debug\net6.0\QuickStarFormInterface.deps.json
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\bin\Debug\net6.0\QuickStarFormInterface.dll
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\bin\Debug\net6.0\QuickStarFormInterface.pdb
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\QuickStarFormInterface.csproj.AssemblyReference.cache
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\QuickStarFormInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\QuickStarFormInterface.AssemblyInfoInputs.cache
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\QuickStarFormInterface.AssemblyInfo.cs
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\QuickStarFormInterface.csproj.CoreCompileInputs.cache
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\QuickStarFormInterface.dll
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\refint\QuickStarFormInterface.dll
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\QuickStarFormInterface.pdb
+C:\Users\Hailey\RiderProjects\QuickStarFormInterface\QuickStarFormInterface\obj\Debug\net6.0\ref\QuickStarFormInterface.dll
