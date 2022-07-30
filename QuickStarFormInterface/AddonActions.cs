@@ -29,6 +29,9 @@ public enum AddonAddress
     Mcp23017InputCard7 = 0x27, //111
 }
 
+
+//TODO: Impliment a logging abstract class to allow plugins to post to there own logs.
+
 /// <summary>
 /// Class that handles addon communication.
 /// </summary>
